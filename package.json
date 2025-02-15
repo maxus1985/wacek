@@ -4,9 +4,9 @@
   "description": "Rozszerzenie do przeglądarki do zbierania plików cookie z Yandex.",
   "main": "popup.js",
   "scripts": {
-    "build": "npm run build",
-    "test": "npm test",
-    "start": "npm start"
+    "build": "webpack --mode production",
+    "test": "jest",
+    "start": "webpack serve --mode development"
   },
   "keywords": [
     "chrome",
