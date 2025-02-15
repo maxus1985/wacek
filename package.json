@@ -14,8 +14,8 @@
     "cookies",
     "yandex"
   ],
-  "author": "Twoje Imię",
-  "license": "MIT",
+  "author": "Your Name",
+  "license": "MPL-2.0",
   "dependencies": {},
   "devDependencies": {}
 }
