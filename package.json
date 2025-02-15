@@ -1,0 +1,21 @@
+{
+  "name": "yandex-cookie-scraper",
+  "version": "1.0.0",
+  "description": "Rozszerzenie do przeglądarki do zbierania plików cookie z Yandex.",
+  "main": "popup.js",
+  "scripts": {
+    "build": "echo 'Building the extension...'",
+    "test": "echo 'Running tests...'",
+    "start": "echo 'Starting the extension...'"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "cookies",
+    "yandex"
+  ],
+  "author": "Twoje Imię",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
